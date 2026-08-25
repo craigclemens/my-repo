@@ -1,3 +1,3 @@
 # my-repo
 
-Hello. I am watching the workshop right now.
+Hello. I am doing the second exercise now.
